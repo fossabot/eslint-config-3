@@ -1,4 +1,6 @@
 # eslint-config
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Feslint-config.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Feslint-config?ref=badge_shield)
+
 
 A config for eslint for the Domo Apps CRA template (https://github.com/DomoApps/Advanced)
 
@@ -8,3 +10,7 @@ Depending on what kind of rule you are adding, make sure it is added in the prop
 
 ### Working with Prettier
 All of the rules in eslint-config are almost all focused with the actual semantics of your program and not whitespace, formatting, etc. Prettier is what we use to manage whitespace and formatting. Rules tied to whitespace and formatting should be configured in prettier, not in eslint-config.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Feslint-config.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Feslint-config?ref=badge_large)
